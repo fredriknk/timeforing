@@ -2,7 +2,7 @@
 
 Høyst uoffisielt Timeføringsark for arbeid på prosjekter ved NMBU
 
-For å laste ned dokumentet trykk her: [timeføring](Timeføring_MAL.xlsx)
+For å laste ned dokumentet trykk her: [timeføring](Timeføring_MAL.xlsx) og trykk på "Download"
 
 
 ## Prosjektoppsett:
