@@ -2,6 +2,9 @@
 
 Høyst uoffisielt Timeføringsark for arbeid på prosjekter ved NMBU
 
+For å laste ned dokumentet trykk her: [timeføring](Timeføring_MAL.xlsx)
+
+
 ## Prosjektoppsett:
 
 Første gang du bruker arket må du føre inn prosjektene du jobber med, skriv prosjektnummerne du bruker til timeføring i UBW i fanen *Prosjektnummer* og et Enkelt og unikt navn i fanen *Prosjekter. Etter du har gitt prosjekter navn bør du ikke endre nanvet! Da vil timer du har ført tidligere ikke bli tatt med (du kan endre prosjektnummeret i ettertid)*
